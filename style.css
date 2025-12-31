@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'android';
-    src: url('../d010/fontes/idroid.otf') format('opentype');
+    src: url('fontes/idroid.otf') format('opentype');
 }
 
 /* root é pseudoclasse */
